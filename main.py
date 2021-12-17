@@ -6,8 +6,9 @@ def print_hi(name):
 
     # a = np.random(0)
     a = np.random.rand(2, 3)
+    b = 'this is dev'
 
-    print(a)
+    print(b)
 
 
 # Press the green button in the gutter to run the script.
